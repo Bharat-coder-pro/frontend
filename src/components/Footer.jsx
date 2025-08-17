@@ -18,8 +18,8 @@ const Footer = () => {
               <caption >Contact Me</caption>
               <ul style={{fontSize: '1rem', listStyle: 'none'}}>
                 <li className={`${s.con} d-flex gap-2 align-items-center`}><IoCall/>+91 - 7224950797</li>
-                <li className={`${s.con} d-flex gap-2 align-items-center`}><MdAttachEmail />bharatydv712@gmail.com</li>
-                <li className={`${s.con} d-flex gap-2 align-items-center`}><FaLocationDot />Sharda Nagar, near Chris School, Obedullaganj (Raisen)</li>
+                <li className={`${s.con} d-flex gap-2 align-items-center`}><MdAttachEmail />john712@gmail.com</li>
+                <li className={`${s.con} d-flex gap-2 align-items-center`}><FaLocationDot />New Street WFO California, USA</li>
               </ul>
             </div>
           </div>
